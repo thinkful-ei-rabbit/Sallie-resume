@@ -1,0 +1,11 @@
+.resume-contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.img {
+  width: 412px;
+  height: 122px;
+}
